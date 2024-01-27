@@ -4,10 +4,7 @@ A new Flutter project. you can create a task delete it and reorder it according 
 
 ## video 
 
-
-https://github.com/mdex-geek/to_do_list/assets/107706485/510c255a-71a1-4900-8dcf-b4fc651e9e4c
-
-
+https://github.com/mdex-geek/to_do_list/assets/107706485/174e6a35-1988-4c8a-9dbc-679b9f90ec54
 
 ## Getting Started
 
