@@ -3,8 +3,9 @@
 A new Flutter project. you can create a task delete it and reorder it according to your preference and you can store you task data in your local storage 
 
 ## 🏗️build with
--> Flutter for UI
--> Hive for local storage
+* Flutter for UI
+* Hive for local storage
+
 
 ## video 
 
